@@ -5,11 +5,11 @@
 
 - 👨‍💻 Linkedin [https://www.linkedin.com/in/matheustsnts/](https://www.linkedin.com/in/matheustsnts/)
 
-- 💬 Sobre mim **Tenho conhecimentos em Laravel, JavaScript, HTML, CSS**
+- 💬 Sobre mim: **Tenho conhecimentos em Laravel, JavaScript, HTML, CSS**
 
-- 📫 Contato **matheusteixeras1@gmail.com**
+- 📫 Contato: **matheusteixeras1@gmail.com**
 
-- 📄 Experiências [Tenho experiência em rede e suporte de computadores.](Tenho experiência em rede e suporte de computadores.)
+- 📄 Experiências: **Tenho experiência em rede e suporte de computadores, pois por um tempo estagei na área, agregando mais conhecimento na parte técnica**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
