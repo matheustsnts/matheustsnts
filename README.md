@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Me chamo Matheus Teixeira</h1>
 <h3 align="center">Sou formado em Engenharia da Computação pela UEMA, e atualmente estou como Desenvolvedor Web Jr. Atualmente estou no Laravel.</h3>
 
-- 🌱 Atualmente estou aprendendo **Django, Docker**
+- 🌱 Atualmente estou aprendendo: **Django, Docker**
 
-- 👨‍💻 Linkedin [https://www.linkedin.com/in/matheustsnts/](https://www.linkedin.com/in/matheustsnts/)
+- 👨‍💻 Linkedin: https://www.linkedin.com/in/matheustsnts/
 
 - 💬 Sobre mim: **Tenho conhecimentos em Laravel, JavaScript, HTML, CSS**
 
