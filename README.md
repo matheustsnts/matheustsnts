@@ -1,6 +1,6 @@
 ## Oiii me chamo Matheus dos Santos Teixeira e essa são as redes sociais que estou disponíveis
 
-Essa são as linguagem de programação que sei e conheço.
+Essa são as linguagens de programação/ferramentas que sei e conheço.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Teixeira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
